@@ -7,3 +7,18 @@
 ### CSS
 Про специфичность селекторов > [Читать](http://sixrevisions.com/css/css-specificity/)
 
+### input[type="number"]
+
+Убрать стрелки +/- число(Mozilla, Webkit).
+
+    input[type="number"] {
+      -moz-appearance: textfield;
+      margin: 0;
+    }
+    
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+
