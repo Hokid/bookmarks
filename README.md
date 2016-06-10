@@ -22,3 +22,6 @@
       margin: 0;
     }
 
+### Реагирование на z-index flash элементом: [Источник](http://blog.slightlymore.co.uk/flash-and-the-z-index-problem-solved/)
+
+
