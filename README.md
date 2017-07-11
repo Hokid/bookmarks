@@ -25,3 +25,4 @@
 ### Реагирование на z-index flash элементом: [Источник](http://blog.slightlymore.co.uk/flash-and-the-z-index-problem-solved/)
 
 
+### В IE 11 клин на SVG элемент приводит к некликабельности всего сайта: [Источник](https://connect.microsoft.com/IE/feedback/details/796745/mouse-events-are-not-delivered-at-all-anymore-when-inside-an-svg-a-use-is-removed-from-the-dom)
